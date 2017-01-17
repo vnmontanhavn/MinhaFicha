@@ -17,6 +17,9 @@ PODS:
   - Mantle (2.1.0):
     - Mantle/extobjc (= 2.1.0)
   - Mantle/extobjc (2.1.0)
+  - Realm (2.2.0):
+    - Realm/Headers (= 2.2.0)
+  - Realm/Headers (2.2.0)
   - SDWebImage (3.8.2):
     - SDWebImage/Core (= 3.8.2)
   - SDWebImage/Core (3.8.2)
@@ -26,6 +29,7 @@ PODS:
 DEPENDENCIES:
   - AFNetworking
   - Mantle
+  - Realm
   - SDWebImage
   - SLExpandableTableView
   - SVProgressHUD
@@ -33,10 +37,11 @@ DEPENDENCIES:
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   Mantle: 2fa750afa478cd625a94230fbf1c13462f29395b
+  Realm: d95b8fb34c83f1e764b66d319277a62c2b6e4bf5
   SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
   SLExpandableTableView: ff63a4bb4b71c6c3ae2b7cb1cde6a36c1645f23c
   SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
 
-PODFILE CHECKSUM: 16838376434806952934c9c8f5c296ce3a4cdd9d
+PODFILE CHECKSUM: f20a304fff32bdbdb7d793888c9d5adb822bb832
 
 COCOAPODS: 1.1.1
